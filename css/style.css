@@ -51,8 +51,37 @@ article {
   width: 50%;
 }
 p {
-line-height: 1.5em
+line-height: 2.0em
+ }
+ p {
+   text-align: left;
  }
 a {
 text-decoration-line: none;
+}
+
+figcaption {
+  line-height: 1em
+}
+figcaption {
+  font-size: 2em
+}
+h1 {
+  font-size: 1.5em
+}
+h1{
+  line-height: 1.5em
+}
+h3 {
+  font-size: 1.2em
+}
+
+a:hover {
+  text-decoration: underline;
+}
+a:active{
+  background-color: #efefef
+}
+a:visited {
+  color: purple
 }
